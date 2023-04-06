@@ -334,13 +334,13 @@ section .title::after{
     width: 85%;
 }
 .skills .skills-content .right .js::before{
+    width: 77%;
+}
+.skills .skills-content .right .WordPress::before{
     width: 87%;
 }
-.skills .skills-content .right .php::before{
-    width: 47%;
-}
-.skills .skills-content .right .mysql::before{
-    width: 42%;
+.skills .skills-content .right .Github::before{
+    width: 89%;
 }
 /*  sessão equipe  */
 .teams .title::after{
